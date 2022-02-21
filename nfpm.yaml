@@ -1,7 +1,7 @@
 name: "python3-txamqp3"
 arch: "amd64"
 platform: "linux"
-version: "v0.9.2"
+version: "v0.9.3"
 section: "default"
 priority: "extra"
 maintainer: "Jookies LTD <jasmin@jookies.net>"
