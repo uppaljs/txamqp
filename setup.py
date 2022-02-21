@@ -14,7 +14,7 @@ def read(fname):
 
 setup(
     name="txAMQP3",
-    version='0.9.0',
+    version='0.9.2',
     author="Esteve Fernandez",
     author_email="esteve@apache.org",
     description="Python3 library for communicating with AMQP peers and brokers using Twisted",
