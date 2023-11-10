@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="txAMQP3",
-    version='0.9.3',
+    version='0.9.4',
     author="Esteve Fernandez",
     author_email="esteve@apache.org",
     description="Python3 library for communicating with AMQP peers and brokers using Twisted",
@@ -15,7 +15,7 @@ setup(
     py_modules=["txAMQP3"],
     include_package_data=True,
     package_data={'txamqp3': ['README.md']},
-    install_requires=['Twisted~=22.1.0'],
+    install_requires=['Twisted~=23.10.0'],
     classifiers=[
         "Development Status :: 5 - Production/Stable",
         "Framework :: Twisted",
